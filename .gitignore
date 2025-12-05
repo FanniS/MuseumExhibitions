@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.vscode/
+PageScraperBackend/backend/db.js
+PageScraperBackend/backend/scrapers/maldives-scraper.js
+PageScraperBackend/backend/routes/maldives.js
+PageScraperBackend/backend/CreateMaldivesTable.sql
+page-scraper-frontend/src/app/pages/maldives-hotel/
